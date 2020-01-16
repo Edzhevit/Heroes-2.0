@@ -1,6 +1,6 @@
 # Heroes-2.0
 
-###Heroes is a web application where you can find victorious opponents. 
+### Heroes is a web application where you can find victorious opponents. 
 
 ### Database Requirements
  The Database of the application needs to support:
@@ -73,7 +73,9 @@ The application should provide Guest (not logged in) users with the functionalit
 * Login
 * Register
 * View the Index page.
+
 The application should provide Users (logged in) with the functionality to:
+
 * Logout
 * Home
 * Create Hero
@@ -83,6 +85,12 @@ The application should provide Users (logged in) with the functionality to:
 * Merchant
 
 User can have can only one Hero. When user has created a hero, he can access Merchant and Profile functionality.
+
 On profile page you should see User – username and email, Hero – name, level and gender(appropriate picture).
-After you create a item, it should appear in Merchant page. Each item needs to be shown in table like in the photo. When hero buys a item it will be added to his inventory. Hero can have only one weapon, helmet, pauldron, gauntlets or pads. After he buys a item, the item buy button should be hidden. When a hero buys a item his stats need to be updated with the item stats. 
-When you fight a hero, the winner is this which damage is more. Damage is calculated by the next formula : heroAttack + heroStrength * 4 – opponentDefence + oponnentStamina * 2. The winner should level up. Winners level should be increased by 1 and his strength and stamina should be increased with 5.
+
+After you create a item, it should appear in Merchant page. Each item needs to be shown in table like in the photo. When hero buys a item it will be added to his inventory. 
+Hero can have only one weapon, helmet, pauldron, gauntlets or pads. After he buys a item, the item buy button should be hidden. 
+When a hero buys a item his stats need to be updated with the item stats. 
+
+When you fight a hero, the winner is this which damage is more. Damage is calculated by the next formula : heroAttack + heroStrength * 4 – opponentDefence + oponnentStamina * 2. The winner should level up.
+Winners level should be increased by 1 and his strength and stamina should be increased with 5.
