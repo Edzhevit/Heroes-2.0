@@ -34,6 +34,8 @@
 ### 1.Templates
 Index Template (route = “/”) (logged out user)
 
+![arena](https://res.cloudinary.com/edzhevit/image/upload/v1579169808/Picture1_kfegc2.png)
+
 Login Template (route = “/users/login”) (logged out user)
 
 
