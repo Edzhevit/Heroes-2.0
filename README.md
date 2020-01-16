@@ -38,35 +38,56 @@ Index Template (route = “/”) (logged out user)
 
 Login Template (route = “/users/login”) (logged out user)
 
+![arena](https://res.cloudinary.com/edzhevit/image/upload/v1579170486/Picture2_ymbbfy.png)
 
 Register Template (route = “/users/register”) (logged out user)
 
+![arena](https://res.cloudinary.com/edzhevit/image/upload/v1579170626/Picture3_j0pjrr.png)
+
 Home Template (route=”/home”) (logged in user)
 
+![arena](https://res.cloudinary.com/edzhevit/image/upload/v1579170662/Picture4_fwqabp.png)
+
 Hero Create Template (route=”/heroes/create”) (logged in user)
+
+![arena](https://res.cloudinary.com/edzhevit/image/upload/v1579170691/Picture5_hb30wb.png)
 
 Home Template (route=”/home”) (logged in user) 
 Home after hero is created.
 
+![arena](https://res.cloudinary.com/edzhevit/image/upload/v1579170739/Picture6_vh6af3.png)
+
 Profile Template (route=”/users/profile”) (logged in user) 
+
+![arena](https://res.cloudinary.com/edzhevit/image/upload/v1579170778/Picture7_yyrs2s.png)
 
 Hero Details Template (route=”/heroes/details/(name)”) (logged in user) 
 Hero details when we don't have items
 
+![arena](https://res.cloudinary.com/edzhevit/image/upload/v1579170866/Picture8_zz3veh.png)
+
 Create Item (route=”/items/create”) (logged in user) 
+
+![arena](https://res.cloudinary.com/edzhevit/image/upload/v1579170907/Picture9_vc7zhz.png)
 
 Merchant (route=”/items/merchant”) (logged in user) 
 
-
+![arena](https://res.cloudinary.com/edzhevit/image/upload/v1579170930/Picture10_wvkym6.png)
 
 Hero Details (route=”/heroes/details/(name)”) (logged in user) 
 Hero details after we buy items.
 
+![arena](https://res.cloudinary.com/edzhevit/image/upload/v1579170968/Picture11_r5vsgw.png)
+
 Home (route=”/home”) (logged in user) 
 When you have created a hero, and there are other heroes, you should list all heroes you can fight.
 
+![arena](https://res.cloudinary.com/edzhevit/image/upload/v1579170999/Picture12_qsclji.png)
+
 Fight (route=”/heroes/fight/(heroName)”) (logged in user) 
 On left you should show your hero and on right your opponent. In the middle show the winner.
+
+![arena](https://res.cloudinary.com/edzhevit/image/upload/v1579171030/Picture13_r2sn9a.png)
 
 
 ### 1.Functional Requirements
