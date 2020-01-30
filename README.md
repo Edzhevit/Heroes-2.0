@@ -1,5 +1,19 @@
 # Heroes-2.0
 
+## Technology stack used to implement the project are: 
+
+* Spring Boot
+* Spring Security
+* Thymeleaf
+* Hibernate
+* JPA
+* HTML5
+* CSS3
+* Bootstrap4
+* JUnit
+* Cloudinary
+
+
 ### Heroes is a web application where you can find victorious opponents. 
 
 ### Database
